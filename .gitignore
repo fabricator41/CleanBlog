@@ -104,8 +104,6 @@ dist
 # vuepress build output
 .vuepress/dist
 
-#temp
-temp/
 
 # vuepress v2.x temp and cache directory
 .temp
